@@ -1,0 +1,12 @@
+django
+djangorestframework
+django-cors-headers
+django-jazzmin
+pillow
+psycopg2
+djangorestframework-simplejwt
+drf-spectacular
+mysqlclient
+shortuuid
+django-ckeditor
+python-dotenv
